@@ -1,0 +1,10 @@
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #000000;
+  color:white;
+}
+.list-group-item{
+    border: 5px solid #00a8e8;
+}
